@@ -1,2 +1,1 @@
-# BIRADS_Prediction_NLP
-Natural Language Processing project for predicting BIRADS classification.
+This repository contains a machine learning model to predict BIRADS categories from mammography reports. The model uses an LSTM architecture optimized by a genetic algorithm for accurate classification.
